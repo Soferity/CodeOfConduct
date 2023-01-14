@@ -1,5 +1,6 @@
 # Soferity Code Of Conduct
 
+## [Polish - Polski](/CODE_OF_CONDUCT.PL.md)
 ## [Korean - 한국어](/CODE_OF_CONDUCT.KO.md)
 ## [Turkish - Türkçe](/CODE_OF_CONDUCT.TR.md)
 ## [English - English](/CODE_OF_CONDUCT.EN.md)
